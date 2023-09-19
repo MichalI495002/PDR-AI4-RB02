@@ -1,0 +1,145 @@
+\documentclass[a4paper, 11pt]{article}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{stfloats}
+\usepackage{placeins}
+\usepackage{tabularray}
+\usepackage{xcolor,colortbl}
+\usepackage[top=2.5cm, bottom=2cm, left = 2.5cm, right = 2.5cm]{geometry} 
+\geometry{a4paper} 
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage{graphicx} 
+\usepackage{amsmath,amssymb}  
+\usepackage{bm}  
+\usepackage[pdftex,bookmarks,colorlinks,breaklinks]{hyperref} 
+\hypersetup{linkcolor=MSBlue,citecolor=black,filecolor=black,urlcolor=black} % black links, for printed output
+\usepackage{memhfixc} 
+\usepackage{pdfsync}  
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{rotating}
+
+\definecolor{MSBlue}{RGB}{47, 84, 150}
+\definecolor{MSGray}{RGB}{128, 128, 128}
+
+\renewcommand{\cftsecfont}{\fontfamily{qag}\selectfont\bfseries} 
+\renewcommand{\cftsecpagefont}{\fontfamily{qag}\selectfont\bfseries\color{MSBlue}} 
+\renewcommand{\cfttoctitlefont}{\fontfamily{qag}\selectfont\LARGE\bfseries}               
+\renewcommand{\familydefault}{phv}
+
+\fancypagestyle{titlepage}{
+  \fancyhf{}
+  \rfoot{\fontfamily{qag}\fontsize{11pt}{0pt}\selectfont\color{MSGray} version 0.1v}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand\footrulewidth{0pt}
+}
+
+
+
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{15pt}
+\rhead{\fontfamily{qag}\fontsize{10pt}{12pt}\selectfont\color{MSGray} 11.09.23}
+\lhead[]{}
+\fancyfoot[C]{\fontsize{10pt}{10pt}\selectfont\thepage} 
+
+
+
+\titleformat{\section}
+  {\fontfamily{qag}\selectfont\LARGE\bfseries\color{MSBlue}}
+  {\thesection}{0.5em}{}
+  
+  
+\titleformat{\subsection}
+  {\fontfamily{qag}\selectfont\Large\mdseries\color{MSBlue}}
+  {\thesubsection}{0.5em}{}
+
+\titleformat{\subsubsection}
+  {\fontfamily{qag}\selectfont\large\mdseries\color{MSBlue}}
+  {\thesubsubsection}{0.5em}{}
+
+\titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+
+\linespread{1.2} 
+
+\begin{document}
+
+\begin{titlepage}
+  \thispagestyle{titlepage}
+  \begin{center} 
+    \end{center}
+
+
+	\setlength{\parindent}{0pt}
+	\vspace*{.15\textheight}
+	\medbreak
+	{\fontfamily{qag}\Huge\bfseries\color{MSBlue} Personal Development Report
+    \par}
+	\bigbreak
+    \bigbreak
+	{Michał Raczkowski\par}
+    \smallbreak
+    {\small AI-core-AI4-RB02 \par}
+    \smallbreak
+    {\small 4465024\par}
+\end{titlepage}
+
+
+
+\pagebreak
+
+
+\tableofcontents
+
+\vfill
+\begin{table}[b]
+  \centering
+  \begin{tblr}{
+    width = \linewidth,
+    colspec = {Q[200]Q[133]Q[327]Q[248]},
+    hlines,
+    vlines,
+  }
+  \textbf{Version} & \textbf{Date} & \textbf{Author} & \textbf{Comment} \\
+   0.1v                & 11.09.23             & M. Raczkowski   &
+    \\
+
+  \end{tblr}
+\end{table}
+
+
+\pagebreak
+
+\section{Introduction}
+Hi, I'm Michael, I am 21 years old and am originally from Warsaw. My secondary education was
+completed through community high school in my hometown, Milanówek, where I graduated with a VWO
+(Świadectwo dojrzałosci) diploma. Two years ago I started my journey at Fontys and have been living in
+Eindhoven for my studies. I have been fascinated by technology since a young age and how it was
+integrated into everyday life in Warsaw. At 14 years old I found real-world applications for my interests
+when I created a robotic prosthetic for one of my teachers. Using open-source code, an Arduino, and 3D
+printing I was able to bring my design to life at 16. This prosthetic used Electromyography (EMG) to read
+and translate the teacher's mussel movement into instructions for mechanical movement in the
+prosthetic. After this, I took internships with a primary focus in 3D printing and data forensics. \par 
+\medbreak
+I started at Fontys ICT one year ago and just finished the 2nd semester of the ICT and Software Engineering
+as my main profile route. Before ICT I attended the Fontys Mechatronics program and quickly realized
+that I was more interested in ICT and its complexities. My technology knowledge helps me grow and
+bring my ideas into the real world, and I enjoy integrating my knowledge of programming and 3D
+printing with new software and hardware. I want to gather more knowledge about software and
+infrastructure and expand my knowledge of hardware. My specific interests currently are in finding out
+more about coding and connecting it to infrastructure. \par
+\medbreak
+In my spare time, I like to design PCBs, and work on my projects connected to them. Besides IT I like to
+play games and explore their history how they were made and why as well as enjoy documentaries.
+Often while I am watching films I find time to cook and experiment with new recipes.
+\section{Societal Impact - Exercises}
+\section{Data Analytics and Investigative Analysis - Exercises}
+\section{Machine Learning - Exercises}
+\section{Personal Challange}
+\section{Group Project}
+
+\end{document}
