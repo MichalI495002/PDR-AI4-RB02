@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1695113370 "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" "PDR.pdf" "PDR" 1695113370
-  "/etc/texmf/web2c/texmf.cnf" 1682682132 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" 1695113369 4883 3b701f4b0df8ebdcff5e5068bf1e6bba ""
+["pdflatex"] 1699334756 "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" "PDR.pdf" "PDR" 1699334756
+  "/etc/texmf/web2c/texmf.cnf" 1699054567 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" 1699334755 5392 7eb120bb96f8f0381a53d4bd32694533 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -121,12 +121,12 @@
   "/usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb" 1529098226 185863 03eed8334733a9f0e839fb381301a5a4 ""
   "/usr/share/texmf/tex/latex/tex-gyre/ot1qag.fd" 1480098840 1662 d3788f7dba5279d334b63bd169017ec4 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1682781404 165012 f177baa1c39a3ebd62c3096a43521a0d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1686661020 1435901 41eab92e4b6f4b4aa70d7f0c9160290b ""
-  "PDR.aux" 1695113370 1419 066123ce92998434794525a1a1b360f3 "pdflatex"
-  "PDR.out" 1695113370 1055 1c1419b0b689369cc61a88292b143351 "pdflatex"
-  "PDR.tex" 1695113369 4883 3b701f4b0df8ebdcff5e5068bf1e6bba ""
-  "PDR.toc" 1695113370 487 5876ff7ef37c4eb046f3b72316b90156 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1699054922 4073795 a82a847ac97773bf4a607ab050efa3a1 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1699054926 1435925 7a0005ecc2f7d2d27ce809478c520563 ""
+  "PDR.aux" 1699334756 1009 c7a05450771ef3b42f404b273e1d7542 "pdflatex"
+  "PDR.out" 1699334756 289 0d28ae413c65f1da5dce11aa756cdcc1 "pdflatex"
+  "PDR.tex" 1699334755 5392 7eb120bb96f8f0381a53d4bd32694533 ""
+  "PDR.toc" 1699334756 200 0238fbf9aeb830975ac13311677111f3 "pdflatex"
   (generated)
   "PDR.aux"
   "PDR.log"

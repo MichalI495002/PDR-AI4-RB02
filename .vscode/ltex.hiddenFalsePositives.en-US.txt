@@ -1,0 +1,1 @@
+{"rule":"PROGRESSIVE_VERBS","sentence":"^\\QI am aware I was behind schedule, but I am trying to catch up with everything I am lacking right now Conclusion.\\E$"}
