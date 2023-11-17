@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.4)  7 NOV 2023 07:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.4)  17 NOV 2023 12:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -600,23 +600,28 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.102 
-       [1] [2] [3] [4] (./PDR.aux)
+       [1] [2]
+Overfull \hbox (0.4868pt too wide) in paragraph at lines 130--132
+[][][]\OT1/phv/m/n/10.95 Data ac-cord-ing to sales were ob-tain from client, and were anonymiza-tion to pro-tect comapny
+ []
+
+[3] [4] [5] (./PDR.aux)
 Package rerunfilecheck Info: File `PDR.out' has not changed.
-(rerunfilecheck)             Checksum: 54DF1880B61C19D00319537EA02A3E54;1392.
+(rerunfilecheck)             Checksum: 5AD92FB03BA5402CA80CCA2826EA60BC;3220.
  ) 
 Here is how much of TeX's memory you used:
- 13779 strings out of 480171
- 231536 string characters out of 5894489
- 543655 words of memory out of 5000000
- 31501 multiletter control sequences out of 15000+600000
- 507585 words of font info for 70 fonts, out of 8000000 for 9000
+ 13803 strings out of 480171
+ 231958 string characters out of 5894489
+ 542655 words of memory out of 5000000
+ 31512 multiletter control sequences out of 15000+600000
+ 508682 words of font info for 71 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 60i,33n,63p,520b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PDR.pdf (5 pages, 93538 bytes).
+ 60i,33n,63p,1140b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on PDR.pdf (6 pages, 104220 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 

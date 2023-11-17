@@ -32,7 +32,7 @@
 
 \fancypagestyle{titlepage}{
   \fancyhf{}
-  \rfoot{\fontfamily{qag}\fontsize{11pt}{0pt}\selectfont\color{MSGray} version 0.1v}
+  \rfoot{\fontfamily{qag}\fontsize{11pt}{0pt}\selectfont\color{MSGray} }
   \renewcommand{\headrulewidth}{0pt}
   \renewcommand\footrulewidth{0pt}
 }
@@ -117,54 +117,64 @@ Currently, in my quest for knowledge, I am keen to explore the convergence of co
 
 In my personal time, I engage in designing PCBs and advancing my own tech-related projects. These activities not only fuel my creativity but also complement my academic and professional goals. Additionally, I have a keen interest in the evolution of gaming and enjoy exploring the historical context and development processes behind modern games. Culinary exploration is another pastime of mine, providing a delicious outlet for experimentation and discovery.
 
-\section{Feedback}
+\section{Learning outcomes}
 
-\subsection{Personal challenge}
+\subsection{Data Preparation \& Analysis}
+You are able to aggregate and prepare given datasets as well as other (open) datasets and use them in data analysis and identify opportunities for predictive analytics.   
+\medbreak
+Aggregate means acquiring data from a variety of different sources and in different formats and putting it together into a meaningful larger total dataset. Prepare consists of cleaning the data according to theories of data quality, in such a way that the process of cleaning and preparing those data is repeatable, transparent to others, and the results are suitable for data analysis. Data analysis implies amongst others: descriptive analytics, statistical overviews, derived columns, trend analysis, etc. Opportunities for predictive analytics can be identified by finding correlations between features, principle component analysis, summarization, anomaly detection, etc. and include an impact forecast.  
 
-\subsubsection{Feedback 5.10.23}
-- If possible add new feature like temperature (or other e.g. Industrial sales)
-- Choosing Model: start with SVM later experiment with Prophet or other efficient model for prediction (regression)
-- If unable to find features just continue, because there are a lot of data from 01-2019 till 09-2023
-- Because of large sample we can continue with less SVM with fewer features works worst but with large data we can achieve quite good result because its more efficient supervised learning
-- On heat map features has good correlation
-- On graph we also can see some correlation (e.g. sales and unemployment)
-\smallbreak
- Snoeren,Jacco J.P.H.
+\subsubsection{Rating - self assessment}
+\textbf{Beginning} 
+\subsubsection{Evidence}
+Data according to sales were obtain from client, and were anonymization to protect comapny which provide data for persdonall challange. Sales data were obtain raw with thounsds of producths through last 4 years in monthly fasion. Data from all products were aggragated and sum of all sales in month. After proccesing it was exported to csv file. 
+feature data about inflation and unemployment were obtain from national database of poland. Data was raw, and was provided yearly with vlaues per month, data was aggragated and put in to one file with sales data, also 
 
-\subsubsection{Feedback 31.10.23}
-this appears not to be a full iteration: the proposal and domain understanding is missing, so it is impossible to understand the purpose and context of your challenge - e.g. a stakeholder is missing - at the end we can not see any accuracy score or confusion matrix - so the iteration seems to start half way and end half way - the AI project methodology is not followed
-\smallbreak
-~Welman, Nick N.P.M.
 
-\subsection{Group Project}
 
-\subsection{Exercises}
+\subsection{Model Engineering}
+You are able to use findings from data analysis to preprocess data, apply machine learning algorithms and evaluate the quality and 
+\medbreak
+Findings from data analysis implies that your choice of data sources and feature selection is based on opportunities for predictive analytics that you previously identified. Preprocess refers to applying systematic ways like feature selection, encoding, scaling, etc. of turning raw datasets into formats that are more suitable for model training. Apply consists of training of different types of models like classification, regression, etc., as well as tuning hyper-parameters. Evaluate means judging the results of machine learning with respect to recall, precision, accuracy, cross-validation, over/underfitted etc. A defined domain refers to the fact that your evaluation must address the problem and impact definition as given by the domain stakeholders, and evaluation metrics must be translated to be meaningful to them.
 
-\subsubsection{3 Data Requirements}
-Well done, this is already a very nice first version, with some good 'thinking outisde the box'! The major events are a nice creative idea, that could have a big impact, but think about how to transform that into data and how to link that to other data elements.
+\subsubsection{Rating - self assessment}
+\textbf{Beginning} 
+\subsubsection{Evidence}
 
-At this point, you might have more questions than answers, but you have create a nicely structured starting point. It helps you to identify assumptions, raise more in-depth questions and of course, to start listing and describing the data elements you need.
+\subsection{Explainable AI}
+You deliver AI projects that follow the three 'Explainable AI' principles of transparency, interpretability, and explainability. 
+\medbreak
+Transparency means that the process by which the used input data results in prediction models is reproducible, reliably described and its decisions are motivated. Interpretability addresses the possibility for humans to comprehend the project cohesion and results by making them comparable to the domain knowledge and baselines. Explainability refers to the application of tools and methods that turn black-box models into grey/white-box models by having the model draw out its decision making process and/or describe its feature importance. 
 
-Looking at the headers, you have addressed most relevant aspects, although in next versions I would advise you to structure the data elements to a more condensed overview. Eventually, don't group the data elements by type, but by meaning/content. 
-You did go into details already, that's really good. You might change/improve this when you progress in your project, but it is good to have thought about it already. it will help you to be more critical.
-For the quality criteria, you tried to capture consistency and accuracy in a data requirement, but once you have started to explore data (sources) you might come up with an addition or change to this part. 
+\subsubsection{Rating - self assessment}
+\textbf{Undefined} 
+\subsubsection{Evidence}
 
-You have started to make an overview of data elements, and you look broader than just the traffic on the highway. That is good, but makes sure you can explain how it is connected to your target variable?). If you don't know if a requirement is valid or necesarry (yet), than add a comment or note and check or revise this in a later stage.
-Everytime you explore or analyse the data, you might need to update the requirements as well.
-For coming weeks: try to make the data elements more specific/detailed: think about how to to link the data elements (e.g. based on date/time, but maybe also other aspects).
+\subsection{Professional Standard}
+You show that you conduct work in accordance with an industry supported methodological approach (AI Project Methodology) in terms of your project's goals, stakeholder involvement, applied research, decision making and reporting.
+\medbreak
+Goals refer to identified authentic immediate and long term issues that you work towards finding appropriate solutions for. Whilst defining your goals you explore the context and environment of your project and you make the necessary business, sustainable and ethical considerations. Stakeholder involvement implies that you involve relevant and competent partners in your project from beginning to the end. During your project you communicate constructively with all your stakeholders. Applied research implies that you effectively use research strategies and methods, like those in the DOT-framework, for your domain understanding and other research activities. Decision making means that you correctly identify the need for further iterations, using evaluation models like the TIC-tool and your stakeholder feedback. Reporting refers to well structured and well motivated, correct and relevant documents, using APA style referencing for used external sources, as well as using visualizations, concluding your project proportionally covering all four phases of the methodology.  
 
-In conclusion: this exercise was meant to help to to get started, and that is what you've done. of course, it is not a complete or perfect overview of data requirements yet; you have to keep working on that for the coming weeks, but as the start is sometimes the most difficult, you now have something to move forward from. Feel free to discuss further work or ideas with me!
-\smallbreak
-Schmitz, Niek N.T.A.
+\subsubsection{Rating - self assessment}
+\textbf{Undefined} 
+\subsubsection{Evidence} 
 
-\subsubsection{1 Nearest Neighbors}
-You didn't see correctly that the results are different because of the train/test split, although after the explanation I think you did. Do you know how to make them stable as well?
+\subsection{Personal Leadership}
+You are aware of your strengths and pitfalls in ICT as well as your personal development. To nurture personal growth you are able to engage in actions that align with your core values, in a way that suits you.
+\medbreak
+Being aware of your strengths and pitfalls means that you are able to recognize (among other things through self-reflection and asking for feedback) what you are already good at and where growth is still possible.   Being able to engage in actions means that you take responsibility, growing towards a professional ICT practitioner, seeing and seizing opportunities in a structured, planned and efficient way. In a way that suits you means that in the activities you undertake you apply an approach that fits your style of acquiring knowledge and skills. 
 
-You performed the second exercise correctly. I see you had some issues with adding one feature, although this should not give an error message. We can discuss if you keep having the error.
+\subsubsection{Rating - self assessment}
+\textbf{Undefined} 
+\subsubsection{Evidence}
 
-You correctly conclude that changing n-neighbours gives different results and understand what's happening.
-\smallbreak
-Snoeren, Jacco J.P.H.
+\subsection{Internship Preparation}
+You create chances to acquire and define an internship assignment based on a match between your ambitions, the school's requirements and the field of expertise related to your profile or specialisation
+
+\subsubsection{Rating - self assessment}
+\textbf{Beginning} 
+\subsubsection{Evidence}
+
 
 \section{Retrospect}
 This couple of weeks were challenging, and my preformance wasn't the best as it could have been, but I still made progress, worked on my individual challenge, and worked with my group on our project, attends lectures and exercises to get most of it. I am aware I was behind schedule, but I am trying to catch up with everything, I lack right now.

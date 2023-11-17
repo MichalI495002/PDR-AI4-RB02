@@ -1,10 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1699338227 "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" "PDR.pdf" "PDR" 1699338228
+["pdflatex"] 1700219790 "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" "PDR.pdf" "PDR" 1700219791
   "/etc/texmf/web2c/texmf.cnf" 1699054567 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" 1699338227 9078 2f0d2e1213bce3158b111d11a682fc8a ""
+  "/home/michal/Repos/PDR-AI4-RB02/PDR.tex" 1700219790 11237 a8cc7cc33a8fb5e838f674459c14c2c5 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm" 1136768653 2520 53e01eef820ca829e42c1333c3fd02b9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm" 1136768653 4712 9ef4d7d106579d4b136e1529e1a4533c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -32,7 +33,9 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136849748 35941 f27169cc74234d5bd5e4cca5abafaabb ""
   "/usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb" 1136849748 44648 23115b2a545ebfe2c526c3ca99db8b95 ""
+  "/usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf" 1136768653 1372 1c26b449eb4a1a0bcf6ac7cfe376d450 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf" 1136768653 1372 dc841a9f00a1a11b1443367ae6c5588e ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -120,10 +123,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1699054922 4073795 a82a847ac97773bf4a607ab050efa3a1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1699054926 1435925 7a0005ecc2f7d2d27ce809478c520563 ""
-  "PDR.aux" 1699338227 2014 d5d330d03e896e2abc42b07565a0c191 "pdflatex"
-  "PDR.out" 1699338227 1392 54df1880b61c19d00319537ea02a3e54 "pdflatex"
-  "PDR.tex" 1699338227 9078 2f0d2e1213bce3158b111d11a682fc8a ""
-  "PDR.toc" 1699338227 877 fdab57ac20ce91be64bbed1815445857 "pdflatex"
+  "PDR.aux" 1700219791 3482 2b457d380d22024d3847886af729abcf "pdflatex"
+  "PDR.out" 1700219791 3220 5ad92fb03ba5402ca80cca2826ea60bc "pdflatex"
+  "PDR.tex" 1700219790 11237 a8cc7cc33a8fb5e838f674459c14c2c5 ""
+  "PDR.toc" 1700219791 1894 77a2665368ba29f42581e680a09b6472 "pdflatex"
   (generated)
   "PDR.aux"
   "PDR.log"
