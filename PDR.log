@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.23)  12 DEC 2023 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.23)  12 DEC 2023 10:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -712,23 +712,23 @@ Overfull \hbox (20.66548pt too wide) in paragraph at lines 132--134
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 142.
-[3] [4] [5] [6] [7] [8] (./PDR.aux)
+[3] [4] [5] [6] [7] (./PDR.aux)
 Package rerunfilecheck Info: File `PDR.out' has not changed.
-(rerunfilecheck)             Checksum: 3D187C7970CBEAF06A4C95D8B6883198;3450.
+(rerunfilecheck)             Checksum: FE4ADCC72DAC4790A98017C8E3E094D7;3450.
  ) 
 Here is how much of TeX's memory you used:
- 14958 strings out of 480171
- 253136 string characters out of 5894488
+ 14957 strings out of 480171
+ 253130 string characters out of 5894488
  581024 words of memory out of 5000000
  32637 multiletter control sequences out of 15000+600000
  510568 words of font info for 73 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  60i,33n,63p,1150b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on PDR.pdf (9 pages, 118284 bytes).
+Output written on PDR.pdf (8 pages, 117454 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
