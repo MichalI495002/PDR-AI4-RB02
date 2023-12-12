@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.4)  17 NOV 2023 12:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.4)  12 DEC 2023 07:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -579,7 +579,7 @@ Configuring pdfsync
 **** pdfsync.sty: Synchronizing at \everyvbox
 \PDFSYNCeveryvb@x=\toks36
 **** pdfsync.sty: started
-LaTeX Font Info:    Trying to load font information for OT1+qag on input line 80.
+LaTeX Font Info:    Trying to load font information for OT1+qag on input line 81.
  (/usr/share/texmf/tex/latex/tex-gyre/ot1qag.fd
 File: ot1qag.fd 2009/09/25 v1.2 font definition file for OT1/qag
 ) [1
@@ -599,15 +599,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.102 
+l.103 
        [1] [2]
-Overfull \hbox (0.4868pt too wide) in paragraph at lines 130--132
+Overfull \hbox (0.4868pt too wide) in paragraph at lines 131--133
 [][][]\OT1/phv/m/n/10.95 Data ac-cord-ing to sales were ob-tain from client, and were anonymiza-tion to pro-tect comapny
  []
 
 [3] [4] [5] (./PDR.aux)
 Package rerunfilecheck Info: File `PDR.out' has not changed.
-(rerunfilecheck)             Checksum: 5AD92FB03BA5402CA80CCA2826EA60BC;3220.
+(rerunfilecheck)             Checksum: 7CC2F20DEA8B4D921012F8549A66A2BC;3220.
  ) 
 Here is how much of TeX's memory you used:
  13803 strings out of 480171
@@ -618,7 +618,7 @@ Here is how much of TeX's memory you used:
  59 hyphenation exceptions out of 8191
  60i,33n,63p,1140b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PDR.pdf (6 pages, 104220 bytes).
+Output written on PDR.pdf (6 pages, 103427 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
