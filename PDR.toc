@@ -6,16 +6,16 @@
 \contentsline {subsection}{\numberline {2.2}Model Engineering}{3}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Rating - self assessment}{3}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Evidence}{3}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3}Explainable AI}{3}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Rating - self assessment}{3}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3}Explainable AI}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Rating - self assessment}{4}{subsubsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.2}Evidence}{4}{subsubsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.4}Professional Standard}{4}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Rating - self assessment}{4}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Evidence}{4}{subsubsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.5}Personal Leadership}{4}{subsection.2.5}%
-\contentsline {subsubsection}{\numberline {2.5.1}Rating - self assessment}{4}{subsubsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.2}Evidence}{4}{subsubsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.6}Internship Preparation}{4}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.5.1}Rating - self assessment}{5}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Evidence}{5}{subsubsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.6}Internship Preparation}{5}{subsection.2.6}%
 \contentsline {subsubsection}{\numberline {2.6.1}Rating - self assessment}{5}{subsubsection.2.6.1}%
 \contentsline {subsubsection}{\numberline {2.6.2}Evidence}{5}{subsubsection.2.6.2}%
 \contentsline {section}{\numberline {3}Conclusion}{5}{section.3}%
