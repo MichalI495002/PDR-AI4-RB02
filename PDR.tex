@@ -21,6 +21,7 @@
 \usepackage{titlesec}
 \usepackage{tocloft}
 \usepackage{rotating}
+\usepackage{mdframed}
 
 \definecolor{MSBlue}{RGB}{47, 84, 150}
 \definecolor{MSGray}{RGB}{128, 128, 128}
@@ -117,7 +118,7 @@ Currently, in my quest for knowledge, I am keen to explore the convergence of co
 \medbreak
 
 In my personal time, I engage in designing PCBs and advancing my own tech-related projects. These activities not only fuel my creativity but also complement my academic and professional goals. Additionally, I have a keen interest in the evolution of gaming and enjoy exploring the historical context and development processes behind modern games. Culinary exploration is another pastime of mine, providing a delicious outlet for experimentation and discovery.
-
+\pagebreak
 \section{Learning outcomes}
 
 \subsection{Data Preparation \& Analysis}
@@ -128,52 +129,114 @@ Aggregate means acquiring data from a variety of different sources and in differ
 \subsubsection{Rating - self assessment}
 \textbf{Beginning} 
 \subsubsection{Evidence}
-Data according to sales were obtain from client, and were anonymization to protect comapny which provide data for persdonall challange. Sales data were obtain raw with thounsds of producths through last 4 years in monthly fasion. Data from all products were aggragated and sum of all sales in month. After proccesing it was exported to csv file. 
-feature data about inflation and unemployment were obtain from national database of poland. Data was raw, and was provided yearly with vlaues per month, data was aggragated and put in to one file with sales data, also 
-
-
+The sales data for this personal project was obtained from a client and subsequently anonymized to protect the company's privacy. This raw data encompassed thousands of products spanning the last four years, presented in a monthly format. All product data were aggregated to calculate the total monthly sales, which was then processed and exported into a CSV file.
+Additionally, feature data regarding inflation and unemployment were sourced from the national database of Poland. This data was initially raw, providing yearly values broken down by month. It was then aggregated and combined into a single file along with the sales data. An analysis of the sales data was conducted, leading to conclusions that helped in understanding the functioning of the company and the market. This analysis also explored how various variables could impact sales performance. For clearer comprehension, the data was also visualized.
 
 \subsection{Model Engineering}
 You are able to use findings from data analysis to preprocess data, apply machine learning algorithms and evaluate the quality and 
 \medbreak
 Findings from data analysis implies that your choice of data sources and feature selection is based on opportunities for predictive analytics that you previously identified. Preprocess refers to applying systematic ways like feature selection, encoding, scaling, etc. of turning raw datasets into formats that are more suitable for model training. Apply consists of training of different types of models like classification, regression, etc., as well as tuning hyper-parameters. Evaluate means judging the results of machine learning with respect to recall, precision, accuracy, cross-validation, over/underfitted etc. A defined domain refers to the fact that your evaluation must address the problem and impact definition as given by the domain stakeholders, and evaluation metrics must be translated to be meaningful to them.
+\subsubsection{Feedback}
+
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  11 Dec at 14:19 \smallbreak
+  You apply normalization, feature selection and in general preprocessing correctly.\smallbreak
+- Snoeren, Jacco J.P.H.
+\end{mdframed}
+
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  11 Dec at 14:19 \smallbreak
+  You apply multiple models and clearly understand how they work.\smallbreak
+- Snoeren, Jacco J.P.H.
+\end{mdframed}
+
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  11 Dec at 14:19 \smallbreak
+  I'm missing an overall conclusion. What is the best model? Which one are you using for your delivery and why? Let's discuss in class. \smallbreak
+- Snoeren, Jacco J.P.H.
+\end{mdframed}
+
 
 \subsubsection{Rating - self assessment}
 \textbf{Beginning} 
 \subsubsection{Evidence}
-Various types of models were implemented (Decision tree regression, Random forest regression, Linear regression, Prophet) in personal project with purpose of predicting future sales. Performance of models were tested by trait-test split method with result of relatively satisfactory results. Models were also tested by cross-validation methods which are harder to apply when working with time series based data and models. Unformtmnatyl accuracy messured by corss validfation was not as accurat as assumptions, but it is coused becouse of nature of projrxt itslef and provided data. Forcating time-series based data is not easiest task, espacilay when our sales data lack of any seasonablity due to nature of product, bussines model of comapny, recent global events and economic crisys. Data for model was callected from client and from open sources, data was modified in way that in can be applied for model whihc is using client montlhy based data. Data was agregeted togeter into one data set to be esaly redble and accessible for model 
+Various types of models, including Decision Tree Regression, Random Forest Regression, Linear Regression, and Prophet, were implemented in a personal project aimed at predicting future sales. The performance of these models was initially evaluated using the train-test split method, yielding relatively satisfactory results. However, when applying cross-validation techniques, which are more challenging in time series data, the accuracy was not as high as initially assumed. This discrepancy in accuracy can be attributed to the inherent complexities of the project and the nature of the provided data. Forecasting time-series data, especially in cases where the sales data lacks seasonality due to the product's nature, the company's business model, recent global events, and economic crises, presents unique challenges. The data for the model was collected from the client and open sources. It was then modified for suitability with a model that utilizes client's monthly data. Finally, the data was aggregated into a single dataset for easy readability and accessibility for the model.
 
 
 
 \subsection{Explainable AI}
 You deliver AI projects that follow the three 'Explainable AI' principles of transparency, interpretability, and explainability. 
 \medbreak
-Transparency means that the process by which the used input data results in prediction models is reproducible, reliably described and its decisions are motivated. Interpretability addresses the possibility for humans to comprehend the project cohesion and results by making them comparable to the domain knowledge and baselines. Explainability refers to the application of tools and methods that turn black-box models into grey/white-box models by having the model draw out its decision making process and/or describe its feature importance. 
+Transparency means that the process by which the used input data results in prediction models is reproducible, reliably described, and its decisions are motivated. Interpretability addresses the possibility for humans to comprehend the project cohesion and results by making them comparable to the domain knowledge and baselines. Explainability refers to the application of tools and methods that turn black-box models into grey/white-box models by having the model draw out its decision-making process and/or describe its feature importance. 
+\subsubsection{Feedback}
 
-\subsubsection{Rating - self assessment}
-\textbf{Undefined} 
-\subsubsection{Evidence}
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  31 Oct at 11:29 \smallbreak
+this appears not to be a full iteration: the proposal and domain understanding is missing, so it is impossible to understand the purpose and context of your challenge - e.g. a stakeholder is missing - at the end we can not see any accuracy score or confusion matrix - so the iteration seems to start half way and end half way - the AI project methodology is not followed \smallbreak
+- Welman, Nick N.P.M.
+\end{mdframed}
 
-\subsection{Professional Standard}
-You show that you conduct work in accordance with an industry supported methodological approach (AI Project Methodology) in terms of your project's goals, stakeholder involvement, applied research, decision making and reporting.
-\medbreak
-Goals refer to identified authentic immediate and long term issues that you work towards finding appropriate solutions for. Whilst defining your goals you explore the context and environment of your project and you make the necessary business, sustainable and ethical considerations. Stakeholder involvement implies that you involve relevant and competent partners in your project from beginning to the end. During your project you communicate constructively with all your stakeholders. Applied research implies that you effectively use research strategies and methods, like those in the DOT-framework, for your domain understanding and other research activities. Decision making means that you correctly identify the need for further iterations, using evaluation models like the TIC-tool and your stakeholder feedback. Reporting refers to well structured and well motivated, correct and relevant documents, using APA style referencing for used external sources, as well as using visualizations, concluding your project proportionally covering all four phases of the methodology.  
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  14 Nov at 11:27 \smallbreak
+  stick more to reality and tell the real story - combine separate documents in one proposal according to the methodology\smallbreak
+- Welman, Nick N.P.M.
+\end{mdframed}
+
 
 \subsubsection{Rating - self assessment}
 \textbf{Orienting} 
+\subsubsection{Evidence}
+
+The personal project initially faced challenges due to its confusing and unstructured nature. This was rectified by aligning the project with AI methodologies. A document was created to integrate domain understanding and an analytical approach, thereby restructuring the project effectively. The notebook itself was organized to be readable, with each step meticulously described to demonstrate and validate the understanding of the applied techniques. The data received from stakeholders was analyzed from multiple perspectives to gain a comprehensive insight into how various factors might affect sales performance. Additionally, the analysis of the data led to some conclusions about the market behavior of different product groups.
+
+\subsection{Professional Standard}
+You show that you conduct work in accordance with an industry supported methodological approach (AI Project Methodology) in terms of your project's goals, stakeholder involvement, applied research, decision-making and reporting.
+\medbreak
+Goals refer to identified authentic immediate and long term issues that you work towards finding appropriate solutions for. Whilst defining your goals you explore the context and environment of your project, and you make the necessary business, sustainable and ethical considerations. Stakeholder involvement implies that you involve relevant and competent partners in your project from beginning to the end. During your project you communicate constructively with all your stakeholders. Applied research implies that you effectively use research strategies and methods, like those in the DOT-framework, for your domain understanding and other research activities. Decision-making means that you correctly identify the need for further iterations, using evaluation models like the TIC-tool and your stakeholder feedback. Reporting refers to well-structured and well motivated, correct and relevant documents, using APA style referencing for used external sources, as well as using visualizations, concluding your project proportionally covering all four phases of the methodology.  
+
+\subsubsection{Rating - self assessment}
+\textbf{Begging} 
 \subsubsection{Evidence} 
+Throughout the entire project, consistent communication was maintained with the client, particularly to gain a comprehensive understanding of their business model and operational methods. Consultations with the client were conducted to determine the most suitable form of delivery that would meet their expectations and functional requirements. Collaboration with the team was conducted adhering to professional standards, ensuring effective communication at all times.
+
+\pagebreak
+
+\subsubsection{Feedback}
+
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  7 Nov at 11:25 \smallbreak
+  You did a lot of work, but there is no feedback. The portfolio will need to be restructured. Make sure you discuss with the teachers.\smallbreak
+- Snoeren, Jacco J.P.H.
+\end{mdframed}
+
+\begin{mdframed}[backgroundcolor=gray!20, linecolor=black, linewidth=0pt, leftmargin=1cm, rightmargin=1cm, innertopmargin=10pt, innerbottommargin=10pt]
+  \itshape
+  17 Nov at 13:19 \smallbreak
+  we discussed this PDR on 17 November - the message is that you must learn to use clear and transparent structures (challenge, research, documentation, PDR)\smallbreak
+- Welman, Nick N.P.M.
+\end{mdframed}
 
 \subsection{Personal Leadership}
 You are aware of your strengths and pitfalls in ICT as well as your personal development. To nurture personal growth you are able to engage in actions that align with your core values, in a way that suits you.
 \medbreak
-Being aware of your strengths and pitfalls means that you are able to recognize (among other things through self-reflection and asking for feedback) what you are already good at and where growth is still possible.   Being able to engage in actions means that you take responsibility, growing towards a professional ICT practitioner, seeing and seizing opportunities in a structured, planned and efficient way. In a way that suits you means that in the activities you undertake you apply an approach that fits your style of acquiring knowledge and skills. 
+Being aware of your strengths and pitfalls means that you are able to recognize (amongst other things through self-reflection and asking for feedback) what you are already good at and where growth is still possible.   Being able to engage in actions means that you take responsibility, growing towards a professional ICT practitioner, seeing and seizing opportunities in a structured, planned and efficient way. In a way that suits you means that in the activities you undertake you apply an approach that fits your style of acquiring knowledge and skills. 
+
+\pagebreak
+
+
 
 \subsubsection{Rating - self assessment}
 \textbf{Orienting} 
 \subsubsection{Evidence}
 
 \subsection{Internship Preparation}
-You create chances to acquire and define an internship assignment based on a match between your ambitions, the school's requirements and the field of expertise related to your profile or specialisation
+You create chances to acquire and define an internship assignment based on a match between your ambitions, the school's requirements and the field of expertise related to your profile or specialization
 
 \subsubsection{Rating - self assessment}
 \textbf{Beginning} 
@@ -184,7 +247,6 @@ You create chances to acquire and define an internship assignment based on a mat
 \section{Conclusion}
 
 
-\section{Conclusion}
 
 
 \end{document}

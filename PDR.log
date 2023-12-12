@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.11.4)  12 DEC 2023 08:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.23)  12 DEC 2023 10:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -467,43 +467,148 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip99
 \rot@float@box=\box84
 \rot@mess@toks=\toks30
+) (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count315
+) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
 )
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 69.
+\c@abspage=\count316
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip100
+\c@mdf@globalstyle@cnt=\count317
+\mdf@skipabove@length=\skip101
+\mdf@skipbelow@length=\skip102
+\mdf@leftmargin@length=\skip103
+\mdf@rightmargin@length=\skip104
+\mdf@innerleftmargin@length=\skip105
+\mdf@innerrightmargin@length=\skip106
+\mdf@innertopmargin@length=\skip107
+\mdf@innerbottommargin@length=\skip108
+\mdf@splittopskip@length=\skip109
+\mdf@splitbottomskip@length=\skip110
+\mdf@outermargin@length=\skip111
+\mdf@innermargin@length=\skip112
+\mdf@linewidth@length=\skip113
+\mdf@innerlinewidth@length=\skip114
+\mdf@middlelinewidth@length=\skip115
+\mdf@outerlinewidth@length=\skip116
+\mdf@roundcorner@length=\skip117
+\mdf@footenotedistance@length=\skip118
+\mdf@userdefinedwidth@length=\skip119
+\mdf@needspace@length=\skip120
+\mdf@frametitleaboveskip@length=\skip121
+\mdf@frametitlebelowskip@length=\skip122
+\mdf@frametitlerulewidth@length=\skip123
+\mdf@frametitleleftmargin@length=\skip124
+\mdf@frametitlerightmargin@length=\skip125
+\mdf@shadowsize@length=\skip126
+\mdf@extratopheight@length=\skip127
+\mdf@subtitleabovelinewidth@length=\skip128
+\mdf@subtitlebelowlinewidth@length=\skip129
+\mdf@subtitleaboveskip@length=\skip130
+\mdf@subtitlebelowskip@length=\skip131
+\mdf@subtitleinneraboveskip@length=\skip132
+\mdf@subtitleinnerbelowskip@length=\skip133
+\mdf@subsubtitleabovelinewidth@length=\skip134
+\mdf@subsubtitlebelowlinewidth@length=\skip135
+\mdf@subsubtitleaboveskip@length=\skip136
+\mdf@subsubtitlebelowskip@length=\skip137
+\mdf@subsubtitleinneraboveskip@length=\skip138
+\mdf@subsubtitleinnerbelowskip@length=\skip139
+ (/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box85
+\mdf@footnotebox=\box86
+\mdf@splitbox@one=\box87
+\mdf@splitbox@two=\box88
+\mdf@splitbox@save=\box89
+\mdfsplitboxwidth=\skip140
+\mdfsplitboxtotalwidth=\skip141
+\mdfsplitboxheight=\skip142
+\mdfsplitboxdepth=\skip143
+\mdfsplitboxtotalheight=\skip144
+\mdfframetitleboxwidth=\skip145
+\mdfframetitleboxtotalwidth=\skip146
+\mdfframetitleboxheight=\skip147
+\mdfframetitleboxdepth=\skip148
+\mdfframetitleboxtotalheight=\skip149
+\mdffootnoteboxwidth=\skip150
+\mdffootnoteboxtotalwidth=\skip151
+\mdffootnoteboxheight=\skip152
+\mdffootnoteboxdepth=\skip153
+\mdffootnoteboxtotalheight=\skip154
+\mdftotallinewidth=\skip155
+\mdfboundingboxwidth=\skip156
+\mdfboundingboxtotalwidth=\skip157
+\mdfboundingboxheight=\skip158
+\mdfboundingboxdepth=\skip159
+\mdfboundingboxtotalheight=\skip160
+\mdf@freevspace@length=\skip161
+\mdf@horizontalwidthofbox@length=\skip162
+\mdf@verticalmarginwhole@length=\skip163
+\mdf@horizontalspaceofbox=\skip164
+\mdfsubtitleheight=\skip165
+\mdfsubsubtitleheight=\skip166
+\c@mdfcountframes=\count318
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count319
+\c@mdf@env@i=\count320
+\c@mdf@env@ii=\count321
+\c@mdf@zref@counter=\count322
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 70.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 ) (./PDR.aux)
 \openout1 = `PDR.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
+\scratchcounter=\count323
 \scratchdimen=\dimen265
-\scratchbox=\box85
-\nofMPsegments=\count316
-\nofMParguments=\count317
+\scratchbox=\box90
+\nofMPsegments=\count324
+\nofMParguments=\count325
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count318
+\MPscratchCnt=\count326
 \MPscratchDim=\dimen266
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -547,7 +652,7 @@ Package: ninecolors 2021/05/24 v2021C Select colors with proper color contrast
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 69.
+Package hyperref Info: Link coloring ON on input line 70.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -555,11 +660,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count321
+\c@section@level=\count329
 )
-LaTeX Info: Redefining \ref on input line 69.
-LaTeX Info: Redefining \pageref on input line 69.
-LaTeX Info: Redefining \nameref on input line 69.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
  (./PDR.out) (./PDR.out)
 \@outlinefile=\write3
 \openout3 = `PDR.out'.
@@ -568,8 +673,8 @@ Configuring pdfsync
 \PDFSYNC@ut=\write4
 \openout4 = `PDR.pdfsync'.
 
-\PDFSYNCf@li@=\count322
-\PDFSYNC@rder=\count323
+\PDFSYNCf@li@=\count330
+\PDFSYNC@rder=\count331
 **** pdfsync.sty: Synchronizing at \everypar
 \PDFSYNCeveryp@r=\toks33
 **** pdfsync.sty: Synchronizing at \everymath
@@ -579,7 +684,7 @@ Configuring pdfsync
 **** pdfsync.sty: Synchronizing at \everyvbox
 \PDFSYNCeveryvb@x=\toks36
 **** pdfsync.sty: started
-LaTeX Font Info:    Trying to load font information for OT1+qag on input line 81.
+LaTeX Font Info:    Trying to load font information for OT1+qag on input line 82.
  (/usr/share/texmf/tex/latex/tex-gyre/ot1qag.fd
 File: ot1qag.fd 2009/09/25 v1.2 font definition file for OT1/qag
 ) [1
@@ -599,29 +704,31 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.103 
+l.104 
        [1] [2]
-Overfull \hbox (0.4868pt too wide) in paragraph at lines 131--133
-[][][]\OT1/phv/m/n/10.95 Data ac-cord-ing to sales were ob-tain from client, and were anonymiza-tion to pro-tect comapny
+Overfull \hbox (20.66548pt too wide) in paragraph at lines 132--134
+[][][]\OT1/phv/m/n/10.95 The sales data for this per-sonal project was ob-tained from a client and sub-se-quently anonymized
  []
 
-[3] [4] [5] (./PDR.aux)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 142.
+[3] [4] [5] [6] [7] [8] (./PDR.aux)
 Package rerunfilecheck Info: File `PDR.out' has not changed.
-(rerunfilecheck)             Checksum: 7CC2F20DEA8B4D921012F8549A66A2BC;3220.
+(rerunfilecheck)             Checksum: 3D187C7970CBEAF06A4C95D8B6883198;3450.
  ) 
 Here is how much of TeX's memory you used:
- 13803 strings out of 480171
- 231958 string characters out of 5894489
- 542655 words of memory out of 5000000
- 31512 multiletter control sequences out of 15000+600000
- 508682 words of font info for 71 fonts, out of 8000000 for 9000
+ 14958 strings out of 480171
+ 253136 string characters out of 5894488
+ 581024 words of memory out of 5000000
+ 32637 multiletter control sequences out of 15000+600000
+ 510568 words of font info for 73 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 60i,33n,63p,1140b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on PDR.pdf (6 pages, 104775 bytes).
+ 60i,33n,63p,1150b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on PDR.pdf (9 pages, 118284 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
